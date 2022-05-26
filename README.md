@@ -1,2 +1,2 @@
 # madlibs
-Simple madlibs project.
+A simple madlibs game.
