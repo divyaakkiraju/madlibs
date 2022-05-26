@@ -1,0 +1,2 @@
+# madlibs
+Simple madlibs project.
